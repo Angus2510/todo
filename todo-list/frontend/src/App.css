@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  text-align: center;
+
+}
+.lists{
+  align-items: center;  
+  max-width: 80vw;
+  min-width: 80vw;
+  padding-top: 2rem;
+  
+}
+.innerList{
+  padding: 1rem;
+  margin: 1rem;
+}
+.remove-button{
+  margin: 5px;
+}
+.signIn{
+  text-align: center;
+  max-width: 50vw;
+  align-items: center;
+}
